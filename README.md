@@ -1,6 +1,3 @@
-# Big_data_storage_and_analysis_project
-
-
 
 # Traffic Accident Risk Analysis Using Databricks and PySpark
 
